@@ -13,6 +13,7 @@
 ![CISCO](https://img.shields.io/badge/-CISCO-000000?style=for-the-badge&logo=cisco)
 ![Sql](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
 
+![Snake animation](https://github.com/Vilen-lfk/Vilen-lfk/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Vilen-lfk/Vilen-lfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
