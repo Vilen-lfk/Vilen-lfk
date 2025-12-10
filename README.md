@@ -4,13 +4,15 @@
 [![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk)](https://vk.com/brocks_777)
 
 ## Все, что я знаю:
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=figma)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
 ![CISCO](https://img.shields.io/badge/-CISCO-000000?style=for-the-badge&logo=cisco)
 ![Sql](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
+
 
 <!--
 **Vilen-lfk/Vilen-lfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
