@@ -10,6 +10,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
 ![CISCO](https://img.shields.io/badge/-CISCO-000000?style=for-the-badge&logo=cisco)
 ![Sql](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 
 <!--
 **Vilen-lfk/Vilen-lfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
